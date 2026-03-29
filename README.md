@@ -1,2 +1,4 @@
-# apex-trading
-AI trading signal website
+apex-trading/
+  index.html
+  style.css
+  script.js
